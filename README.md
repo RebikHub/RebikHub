@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebikHub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![badges](https://www.codewars.com/users/RebikHub/badges/large)
+![badges](https://www.codewars.com/users/RebikHub/badges/large)
