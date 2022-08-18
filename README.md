@@ -9,7 +9,7 @@
 
 ## Мои сертификаты
 
-- (https://github.com/RebikHub/my-certificates)
+- https://github.com/RebikHub/my-certificates
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebikHub&theme=cobalt&show_icons=true)
 
