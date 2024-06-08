@@ -2,7 +2,7 @@
 
 ## Мои проекты
 
-- [Игра в шашки](https://rebikhub.github.io/checkers/)
+- [Игра в шашки](https://github.com/RebikHub/checkers)
 - [Сервис для покупки билетов](https://github.com/RebikHub/fe-trainbooking)
 - [Интернет-магазин обуви](https://github.com/RebikHub/Online-shoe-store)
 - [Приложение для хранения информации](https://github.com/RebikHub/Chaos-Organizer)
