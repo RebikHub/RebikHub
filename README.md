@@ -1,4 +1,4 @@
-## Привет, я фронтенд-разработчик 👋
+## Hello! I'm Rebikov Alexandr, a frontend developer. 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebikHub&theme=cobalt&show_icons=true)
 
