@@ -1,7 +1,7 @@
 ## Hello! I'm a frontend developer. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebikHub&theme=cobalt&show_icons=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=RebikHub&theme=cobalt&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebikHub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RebikHub&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 ![badges](https://www.codewars.com/users/RebikHub/badges/large)
