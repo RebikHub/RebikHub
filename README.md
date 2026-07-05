@@ -3,10 +3,10 @@
 - 💻 Specializing in building modern web applications with **React** and **JavaScript**.
 - 🛠 Exploring frontend architecture, state management, and clean code best practices.
 
-![JS](https://shields.io)
-![React](https://shields.io)
-![Redux](https://shields.io)
+### 🛠 Tech Stack
+* **Core:** JavaScript (ES6+), React, Redux, HTML5, CSS3
+* **Tools:** Git, Vite, npm/pnpm
 
-![CodeWars Badge](https://codewars.com)
-
-![Views](https://komarev.com)
+### 🏆 CodeWars Coding Progress
+<!-- Перенаправляем запрос на зеркало shields через сторонний прокси, чтобы пробить старый кэш GitHub -->
+![CodeWars](https://shields.io)
