@@ -1,37 +1,22 @@
 ## Hello! I'm a frontend developer. 👋
 
+<!-- Описание -->
+- 💻 Specializing in building modern web applications with **React** and **JavaScript**.
+- 🛠 Exploring frontend architecture, state management, and clean code best practices.
+
+<!-- Статичные бейджи технологий (генерируются сервером Shields.io, работают всегда) -->
 <p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="JS" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Redux" />
 </p>
 
-<!-- GitHub статистика в теме Cobalt -->
-<table>
-  <tr>
-    <td><img src="https://vercel.app" alt="GitHub Stats" /></td>
-    <td><img src="https://vercel.app" alt="Top Langs" /></td>
-  </tr>
-</table>
-
-<!-- CodeWars и 3D-стек технологий в одну линию -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://codewars.com" alt="CodeWars Badge" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://vercel.app;" alt="Tech Stack" height="70" />
-    </td>
-  </tr>
-</table>
-
-<!-- График активности -->
-![Activity Graph](https://vercel.app)
-
-<br/>
+<!-- Ваш бейдж CodeWars (работает стабильно, так как идет напрямую с их сайта) -->
+<p>
+  <img src="https://codewars.com" alt="CodeWars Badge" />
+</p>
 
 <!-- Счетчик просмотров -->
-<div align="right">
-  <img src="https://komarev.com" />
-</div>
+<p>
+  <img src="https://komarev.com" alt="Views" />
+</p>
