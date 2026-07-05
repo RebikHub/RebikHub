@@ -1,17 +1,12 @@
 ## Hello! I'm a frontend developer. 👋
 
-<!-- Краткая и емкая характеристика -->
-- 💻 Специализируюсь на создании веб-приложений на **React** и **JavaScript**.
-- 🛠 Изучаю архитектуру frontend-приложений, стейт-менеджеры и лучшие практики написания чистого кода.
-
-<!-- Компактные бейджи основных технологий -->
 <p>
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
 </p>
 
-<!-- Статистика GitHub в вашей любимой теме Cobalt -->
+<!-- GitHub статистика в теме Cobalt -->
 <table>
   <tr>
     <td><img src="https://vercel.app" alt="GitHub Stats" /></td>
@@ -19,7 +14,7 @@
   </tr>
 </table>
 
-<!-- Ваш бейдж CodeWars и интерактивное 3D-облако тегов в одну строку -->
+<!-- CodeWars и 3D-стек технологий в одну линию -->
 <table>
   <tr>
     <td align="center" width="50%">
@@ -31,12 +26,12 @@
   </tr>
 </table>
 
-<!-- Плавный неоновый график коммитов -->
+<!-- График активности -->
 ![Activity Graph](https://vercel.app)
 
 <br/>
 
-<!-- Аккуратный счетчик просмотров профиля в самом низу -->
+<!-- Счетчик просмотров -->
 <div align="right">
   <img src="https://komarev.com" />
 </div>
